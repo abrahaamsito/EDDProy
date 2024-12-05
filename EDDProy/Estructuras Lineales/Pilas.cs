@@ -8,6 +8,7 @@ namespace EDDemo
         public NodoPila Sig { get; set; }   // Referencia al siguiente nodo
     }
 
+
     public class Pilas
     {
         private NodoPila tope;  // Puntero al nodo superior de la pila
